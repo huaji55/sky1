@@ -11,6 +11,7 @@ export default defineConfig({
       { text: '介紹', link: '/介紹' },
       { text: '活動', link: '/活動/' },
       { text: '更新說明', link: '/更新說明' },
+      { text: '已知問題', link: '/已知問題' },
       { text: 'GitHub 專案', link: 'https://github.com/' },
     ],
     sidebar: {
@@ -21,6 +22,8 @@ export default defineConfig({
             { text: '介紹', link: '/介紹' },
             { text: '活動', link: '/活動/' },
             { text: '更新說明', link: '/更新說明' },
+            { text: '已知問題', link: '/已知問題' },
+            { text: 'GitHub 專案', link: 'https://github.com/' }
           ],
         },
         {
