@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/sky/'
+  base: '/sky/',
   title: "sky",
   description: "sky",
   themeConfig: {
