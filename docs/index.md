@@ -1,25 +1,21 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "sky"
-  text: "sky"
-  tagline: My great project tagline
+  name: 歡迎加入sky!
+  text: 國際服光遇資訊
+  tagline : 提供翻譯後的國際服光遇公告,已知問題,活動公告<br>更多資訊請點擊以下按鈕
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 介紹
+      link: /介紹
     - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: github專案
+      link: https://github.com/huaji55/sky/
+    - theme: brand
+      text: 活動
+      link: /活動 
+    - theme: brand
+      text: 更新說明
+      link: /更新說明
 ---
-
