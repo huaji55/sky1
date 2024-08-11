@@ -1,0 +1,44 @@
+/* docs/.vitepress/theme/index.css */
+
+/* 确保 hero 区域的样式正常 */
+.hero {
+    text-align: center; /* 可选：使内容居中对齐 */
+  }
+  
+  /* 将按钮容器设为 flex 布局，允许换行 */
+  .hero .actions {
+    display: flex;
+    flex-direction: column; /* 垂直排列按钮 */
+    align-items: center; /* 中心对齐按钮 */
+    gap: 1rem; /* 按钮之间的间距 */
+  }
+  
+  /* 按钮样式 */
+  .hero .actions .action {
+    display: block; /* 确保每个按钮独占一行 */
+    width: 100%; /* 按钮宽度100%，可根据需要调整 */
+    max-width: 300px; /* 可选：限制按钮的最大宽度 */
+    margin: 0 auto; /* 居中对齐 */
+    padding: 1rem; /* 按钮的内边距 */
+    text-align: center; /* 文本居中对齐 */
+    text-decoration: none; /* 去除下划线 */
+    border: 1px solid transparent; /* 按钮边框 */
+    border-radius: 4px; /* 按钮圆角 */
+    transition: background-color 0.3s, color 0.3s; /* 过渡效果 */
+  }
+  
+  .hero .actions .action.brand {
+    background-color: #007bff; /* 主按钮的背景色 */
+    color: white; /* 主按钮的文字颜色 */
+  }
+  
+  .hero .actions .action.alt {
+    background-color: #6c757d; /* 辅助按钮的背景色 */
+    color: white; /* 辅助按钮的文字颜色 */
+  }
+  
+  .hero .actions .action:hover {
+    background-color: #0056b3; /* 主按钮的悬停效果 */
+    color: white; /* 主按钮的悬停文字颜色 */
+  }
+  
