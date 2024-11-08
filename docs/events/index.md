@@ -6,7 +6,7 @@ title: 活動
 
 以下是光遇全部活動最近一次的相關內容，您可以在這裡查看。
 
-- [幸運日](dayS_of_fontune.md)
+- [幸運日](days_of_fontune.md)
 - [愛之日](days_of_love.md)
 - [花之日](days_of_bloom.md)
 - [自然日](days_of_nature.md)
