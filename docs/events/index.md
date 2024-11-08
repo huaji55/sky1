@@ -1,22 +1,22 @@
 ---
 title: 活動
 ---
-
 # 活動頁面
+最新的活動為 [萬聖節](days_of_halloween.md)
 
-這裡是光遇最新活動相關內容，您可以在這裡查看。
+以下是光遇全部活動最近一次的相關內容，您可以在這裡查看。
 
-- [幸運日](event1.md)
-- [愛之日](event2.md)
-- [花之日](event3.md)
-- [自然日](event4.md)
-- [彩虹日](event5.md)
-- [周年慶](event6.md)
-- [錦標賽](event7.md)
-- [陽光日](event8.md)
-- [月光日](event9.md)
-- [時尚日](event10.md)
-- [萬聖節](event11.md)
-- [盛宴日](event12.md)
-- [音樂節](event13.md)
-- [咖啡日](event14.md)
+- [幸運日](day_of_fontune.md)
+- [愛之日](days_of_love.md)
+- [花之日](days_of_bloom.md)
+- [自然日](days_of_nature.md)
+- [彩虹日](days_of_rainbow.md)
+- [周年慶](days_of_anniversary.md)
+- [錦標賽](days_of_competition.md)
+- [陽光日](days_of_sunlight.md)
+- [月光日](days_of_moonlight.md)
+- [時尚日](days_of_fashion.md)
+- [萬聖節](days_of_halloween.md)
+- [盛宴日](days_of_feast.md)
+- [音樂節](days_of_music.md)
+- [咖啡日](days_of_cafe.md)
