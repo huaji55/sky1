@@ -20,4 +20,4 @@ title: 活動
 - [盛宴日](days_of_feast.md)
 - [音樂節](days_of_music.md)
 - [咖啡日](days_of_cafe.md)
-- [] (event1.md)
+- [](event1.md)
