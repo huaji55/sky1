@@ -8,16 +8,16 @@ hero:
   actions:
     - theme: brand
       text: 介紹
-      link: /介紹
+      link: /introduce
     - theme: brand
       text: 活動
-      link: /活動 
+      link: /events 
     - theme: brand
       text: 更新說明
-      link: /更新說明
+      link: /patch-notes
     - theme: brand
       text: 已知問題
-      link: /已知問題
+      link: /known-issues
     - theme: alt
       text: github專案
       link: https://github.com/huaji55/sky/
