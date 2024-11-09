@@ -1,9 +1,3 @@
-<meta name="google-site-verification" content="google96b96d086c4f9fb2" />
-
-
-或者您可以使用以下方法進行 Google 驗證：
-<iframe src="/sky/google96b96d086c4f9fb2.html" width="100%" height="600px"></iframe>
-
 ---
 title: 活動
 ---
