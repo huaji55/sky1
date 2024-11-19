@@ -2,31 +2,32 @@
 layout: home
 
 hero:
-  name: 歡迎加入sky!
-  text: 國際服光遇資訊
-  tagline : 提供翻譯後的國際服光遇公告,已知問題,活動公告<br>更多資訊請點擊以下按鈕
+  name: 欢迎加入sky!
+  text: 国际服光遇资讯
+  tagline: 提供翻译后的国际服光遇公告,已知问题,活动公告<br>更多资讯请点击以下按钮
   actions:
     - theme: brand
-      text: 介紹
-      link: /introduce
+      text: 介绍
+      link: /zh/introduce
     - theme: brand
-      text: 活動
-      link: /events 
+      text: 活动
+      link: /zh/events 
     - theme: brand
-      text: 更新說明
-      link: /patch-notes
+      text: 更新说明
+      link: /zh/patch-notes
     - theme: brand
-      text: 已知問題
-      link: /known-issues
+      text: 已知问题
+      link: /zh/known-issues
     - theme: alt
-      text: github專案
+      text: github专案
       link: https://github.com/huaji55/sky/
 ---
+
 ## 語言切換(语言切换/language switch):
-選擇您的語言(选择您的语言/Choose your language)：
+选择您的语言(選擇您的語言/Choose your language)：
 <div class="language-switcher">
-  <a href="/sky/" class="language-button">繁體中文</a>
   <a href="/sky/zh/" class="language-button">简体中文</a>
+  <a href="/sky/" class="language-button">繁体中文</a>
   <a href="/sky/en/" class="language-button">English</a>
 </div>
 
