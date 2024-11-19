@@ -11,3 +11,8 @@
 [GitHub 專案](https://github.com/huaji55/sky/)
 
 歡迎提供修改建議與想法，敬請指教！
+
+## 聯繫方式
+[Gmail](mailto:adam105195@gmail.com)
+
+Discord: huaji.
