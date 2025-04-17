@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,ae as o}from"./chunks/framework.CboIDCZ4.js";const _=JSON.parse('{"title":"關於此網站","description":"","frontmatter":{},"headers":[],"relativePath":"introduce.md","filePath":"introduce.md"}'),n={name:"introduce.md"};function i(s,a,l,d,c,h){return t(),r("div",null,a[0]||(a[0]=[o("",10)]))}const u=e(n,[["render",i]]);export{_ as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.CboIDCZ4.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"events/days_of_treasure.md","filePath":"events/days_of_treasure.md"}'),s={name:"events/days_of_treasure.md"};function r(o,_,n,c,d,f){return a(),t("div")}const m=e(s,[["render",r]]);export{i as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as n,o as a,j as r}from"./chunks/framework.CboIDCZ4.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/index.md","filePath":"en/index.md"}'),s={name:"en/index.md"};function o(d,e,i,c,p,l){return a(),n("div",null,e[0]||(e[0]=[r("p",null,"test",-1)]))}const f=t(s,[["render",o]]);export{_ as __pageData,f as default};
