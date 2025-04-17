@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/sky/',  // 確保這是您 GitHub Pages 上的正確 URL 路徑
+  base: '/sky1/',  // 確保這是您 GitHub Pages 上的正確 URL 路徑
   title: '光遇資訊',
   description: '提供翻譯後的國際服光遇公告、已知問題、活動公告',
   themeConfig: {
