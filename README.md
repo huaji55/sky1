@@ -1,7 +1,7 @@
 # Sky
-Based on VitePress to develop.
+Based on VuePress to develop.
 
-You can watch the official doc here: [link](https://vitepress.dev/guide/getting-started)
+You can watch the official doc here: [link](https://vuepress.vuejs.org/guide/getting-started.html)
 
 [網站](https://huaji55.github.io/sky/)
 # 關於此網站
