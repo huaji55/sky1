@@ -2,12 +2,13 @@
 title: 活動
 ---
 # 活動頁面
-最新的活動為 [愛之日](days_of_love.md)
+最新的活動為 [自然日](days_of_nature.md)
 
 以下是光遇全部活動最近一次的相關內容，您可以在這裡查看。
 
 - [幸運日](days_of_fontune.md)
 - [愛之日](days_of_love.md)
+- [尋寶日](days_of_treasure.md)
 - [花之日](days_of_bloom.md)
 - [自然日](days_of_nature.md)
 - [彩虹日](days_of_rainbow.md)
